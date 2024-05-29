@@ -1,0 +1,14 @@
+.bg-body-tertiary {
+
+background-color: #FFEED3 !important;
+}
+#myCarousel {
+    width: 40%; /* 設置寬度 */
+    margin: auto; /* 使Carousel居中 */
+  }
+  
+  .carousel-inner img {
+    width: 100%; /* 確保圖片填滿Carousel */
+    height: auto; /* 保持圖片的縱橫比 */
+  }
+  
